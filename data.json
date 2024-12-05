@@ -1,11 +1,11 @@
 {
-    "journal": {
-      "nomJournal": "Le Monde des Serviettes",
-      "phraseAccroche": "Tout savoir sur les serviettes : types, usages et entretien",
-      "texteAppelAction": "Abonnez-vous pour découvrir tous les secrets des serviettes et comment les choisir",
-      "articlePrincipal": {
-        "titre": "Choisir la serviette parfaite pour chaque occasion",
-        "description": "Découvrez les différents types de serviettes et comment choisir celle qui correspond le mieux à vos besoins.",
+   "journal": {
+    "nomJournal": "Le Monde des Serviettes",
+   "phraseAccroche": "Tout savoir sur les serviettes : types, usages et entretien",
+    "texteAppelAction": "Abonnez-vous pour découvrir tous les secrets des serviettes et comment les choisir",
+     "articlePrincipal": {
+     "titre": "Choisir la serviette parfaite pour chaque occasion",
+      "description": "Découvrez les différents types de serviettes et comment choisir celle qui correspond le mieux à vos besoins.",
         "date": "1er Décembre 2024",
         "theme": "Accessoires et entretien",
         "image": ""
@@ -68,7 +68,7 @@
         {
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKO60xBBxa1heLJUZwI0iqSOprsQ50Rj7cA&s",
           "prenom": "mamadou",
-          "typeExperience": "Conseillère en linge de maison",
+          "typeExperience": "Conseiller en linge de maison",
           "presentation": "Spécialiste du linge de maison, je partage mes astuces pour choisir, entretenir et utiliser les serviettes."
         },
         {
