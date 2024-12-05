@@ -226,6 +226,14 @@ body {
   75% { transform: translate(-2px, -2px); }
   100% { transform: translate(2px, 2px); }
 }
+#servietteButton {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 0;
+  text-align: center;
+}
+
 
         
   
